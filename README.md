@@ -1,4 +1,4 @@
-# Automatic_Fan_Door_Blast_Gate
+# Automatic Fan / Door Blast Gate
 
 This repository contains the F3D (Fusion 360) and STEP files for the automatic fan door / blast gate 3D printed project.
 
