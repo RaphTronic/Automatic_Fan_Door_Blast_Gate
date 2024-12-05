@@ -4,6 +4,8 @@ This repository contains the F3D (Fusion 360) and STEP files for the automatic f
 
 More information on the design and assembly in this post: https://raphtronic.blogspot.com/2024/01/diy-automatic-fan-door-blast-gate-3d.html
 
+Feel free to copy / remix / whatever.
+
 Happy printing to all !
 
 ![blast gates 2](https://github.com/RaphTronic/Automatic_Fan_Door_Blast_Gate/assets/35200718/ab83596e-1c37-4912-bb41-50aeb94aaa61)
